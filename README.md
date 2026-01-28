@@ -1,8 +1,10 @@
 # Hi there! I'm Maria Alatsaki ✨🎀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8GpxYvKJRZ96/giphy.gif" width="250px">
+  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="250px">
 </div>
+
+
 
 ### 🌸 About Me
 - [cite_start]🎓 Computer Science Graduate from **University of Crete**[cite: 8, 9].
