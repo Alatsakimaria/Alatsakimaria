@@ -28,9 +28,11 @@
 
 ---
 
-<div align="center">
+---
 
-  <img src="https://media1.tenor.com/m/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" width="400px" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alatsakimaria&layout=compact&theme=rose-pine&hide_border=true&title_color=ff69b4" width="300px" />
+<div align="center">
+  <img src="https://media1.tenor.com/m/W0DwukIXlskAAAAd/programming.gif" width="48%" />
+  <img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alatsakimaria&layout=compact&theme=rose-pine&hide_border=true&title_color=ff69b4" width="350px" />
 </div>
