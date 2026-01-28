@@ -1,7 +1,8 @@
 # Hi there! I'm Maria Alatsaki ✨🎀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8GpxYvKJRZ96/giphy.gif" width="250px">
+  <img src="<img width="472" height="424" alt="image" src="https://github.com/user-attachments/assets/580efe4b-b3d0-4854-a105-a9eb2574148c" />
+" width="250px">
 </div>
 
 ### 🌸 About Me
