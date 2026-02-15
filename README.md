@@ -1,4 +1,4 @@
-# 🎀 Hi, I'm Maria Alatsaki 🎀
+# Hi, I'm Maria Alatsaki
   
   <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="250px">
 
