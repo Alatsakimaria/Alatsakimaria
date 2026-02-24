@@ -26,12 +26,3 @@
 [<img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-alatsaki-2431a6253/)
 [<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:marialats.2017@gmail.com)
 
----
-
----
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/W0DwukIXlskAAAAd/programming.gif" width="48%" />
-  <img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif" width="48%" />
-  <br><br>
-</div>
