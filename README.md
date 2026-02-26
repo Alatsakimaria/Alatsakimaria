@@ -1,28 +1,57 @@
-# Hi, I'm Maria Alatsaki
-  
-  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="250px">
+# 👋 Hi there! I'm Maria Alatsaki
 
-  **Computer Science Graduate | Fullstack Developer | Frontend Enthusiast**
-  
-  ---
-</div>
+I'm a **Computer Science Graduate** from the **University of Crete** with a passion for building tools that help people. I love turning designs into working applications and solving the logical puzzles behind pricing and data. I specialize in **Fullstack Development**, with a particular focus on **React** and **Node.js**.
 
-###  Professional Journey
-*  **Education**: Recently graduated with a **B.Sc in Computer Science** from the **University of Crete**.
-*  **Passion**: Building **reliable, user-friendly applications** with a focus on **clean architecture**.
-*  **Specialty**: Expertly translating **Figma designs** into production-ready **React components**.
-*  **Location**: Based in **Heraklion, Crete**.
+<img src="[https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif](https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)" width="250px">
 
-### My Technical Toolbox
-| Category | Stack & Tools|
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-FFB6C1?style=flat-square&logo=react&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-FFB6C1?style=flat-square&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-FFB6C1?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-FF69B4?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-FF69B4?style=flat-square&logo=express&logoColor=white) ![Java](https://img.shields.io/badge/-Java-FF69B4?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-FF69B4?style=flat-square&logo=mysql&logoColor=white)  |
-| **Data Science** | ![Python](https://img.shields.io/badge/-Python-F4C2C2?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-F4C2C2?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-F4C2C2?style=flat-square&logo=numpy&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/-Git-DB7093?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-DB7093?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-DB7093?style=flat-square&logo=postman&logoColor=white) |
+---
 
+## 🧠 What I Work With
 
-### Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-alatsaki-2431a6253/)
-[<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:marialats.2017@gmail.com)
-
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🛠 Languages & Frameworks</h3>
+<ul>
+<li><b>Frontend:</b> React, JavaScript, HTML/CSS </li>
+<li><b>Backend:</b> Node.js, Express.js, Java </li>
+<li><b>Data Science:</b> Python, Pandas, NumPy </li>
+<li><b>Database:</b> SQL </li>
+<li><b>Others:</b> C </li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Academic Background</h3>
+<ul>
+<li><b>B.Sc in Computer Science</b>, University of Crete </li>
+<li><b>Thesis:</b> Analysis of Process Mining Algorithms </li>
+<li><b>Key Projects:</b>
+<ul>
+<li>Mystery Ball E-shop (Full-Stack) </li>
+<li>SkillQuest App (Job Tracking) </li>
+<li>eSports System Dashboard (UI/UX) </li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚙️ Tech & Tools</h3>
+<ul>
+<li>Git / GitHub </li>
+<li>Docker </li>
+<li>Postman </li>
+<li>Figma </li>
+<li>VS Code </li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>📫 Connect with me</h3>
+<ul>
+<li><a href="[https://www.linkedin.com/in/maria-alatsaki-2431a6253/](https://www.linkedin.com/in/maria-alatsaki-2431a6253/)">LinkedIn</a></li>
+<li><a href="mailto:marialats.2017@gmail.com">Email Me</a></li>
+</ul>
+</td>
+</tr>
+</table>
