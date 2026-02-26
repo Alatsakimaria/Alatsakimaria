@@ -3,6 +3,7 @@
 I am a **Computer Science Graduate** from the **University of Crete**. I have a passion for building tools that help people and turning designs into working applications. I enjoy the technical challenge of coding—especially **React** and **Node.js**—and solving logical puzzles behind data.
 
   <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="250px">
+  
 ---
 
 <table width="100%">
