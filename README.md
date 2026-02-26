@@ -2,7 +2,7 @@
 
 I'm a **Computer Science Graduate** from the **University of Crete** with a passion for building tools that help people. I love turning designs into working applications and solving the logical puzzles behind pricing and data. I specialize in **Fullstack Development**, with a particular focus on **React** and **Node.js**.
 
-<img src="[https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif](https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)" width="250px">
+  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="250px">
 
 ---
 
